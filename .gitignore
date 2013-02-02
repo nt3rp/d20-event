@@ -1,0 +1,5 @@
+*.swp
+*~
+*.pyc
+*.idea
+src/static/js/lib/*
